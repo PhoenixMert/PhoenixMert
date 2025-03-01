@@ -5,3 +5,5 @@ I am Mert, a freshman at Bilkent University majoring in computer science. I like
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI)
 ![PhoenixMert's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PhoenixMert&show_icons=true&theme=radical)
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=phoenixmert&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+
